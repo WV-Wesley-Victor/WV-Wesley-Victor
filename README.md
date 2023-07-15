@@ -1,4 +1,4 @@
-## Desenvolvedor web em busca de aprendizado contínuo e crescimento profissional.
+<img src="https://i.imgur.com/AHl2eyn.png">
 Olá, Sou o Wesley Victor! Como desenvolvedor web, estou em constante busca por aprendizado e atualização, buscando acompanhar de perto as últimas tendências e avanços tecnológicos do setor. 🖥️ 🖱️
 
 ## Minhas habilidades e conhecimentos.
