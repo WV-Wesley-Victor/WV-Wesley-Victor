@@ -1,8 +1,8 @@
 ## Desenvolvedor web em busca de aprendizado contínuo e crescimento profissional.
-Olá, sou Wesley Victor, Como desenvolvedor web, estou constantemente aprendendo e me atualizando para acompanhar as últimas tendências e avanços tecnológicos.
+Olá, Sou o Wesley Victor! Como desenvolvedor web, estou em constante busca por aprendizado e atualização, buscando acompanhar de perto as últimas tendências e avanços tecnológicos do setor. 🖥️ 🖱️
 
 ## Minhas habilidades e conhecimentos.
-Minhas habilidades abrangem diversas áreas, como desenvolvimento web, programação, bancos de dados, sistemas operacionais, redes e segurança da informação.
+Possuo um amplo conjunto de habilidades que abrange diversas áreas, incluindo desenvolvimento web, programação, bancos de dados, sistemas operacionais, redes e segurança da informação. 💻 🔌 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
