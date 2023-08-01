@@ -2,7 +2,7 @@
 ## Desenvolvedor Web em Busca Eterna de Conhecimento
 Sou o Wesley Victor, um desenvolvedor web apaixonado por atualizações tecnológicas. Busco constantemente conhecimento para oferecer soluções inovadoras aos meus clientes. Com uma abordagem visionária, almejo criar experiências digitais envolventes e funcionais, ultrapassando limites e impulsionando o sucesso dos projetos. Junte-se a mim nessa jornada de evolução e transformação digital!
 
-## Minhas habilidades e conhecimentos.
+## Minhas habilidades e conhecimentos
 Possuo uma ampla gama de habilidades que abrangem várias áreas essenciais, como desenvolvimento web, programação, bancos de dados, sistemas operacionais, redes e segurança da informação. Essas competências me permitem ter uma visão abrangente e integrada no desenvolvimento de soluções tecnológicas, garantindo a eficiência, a qualidade e a segurança dos projetos em que trabalho.
 <div>
  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
@@ -22,12 +22,12 @@ Possuo uma ampla gama de habilidades que abrangem várias áreas essenciais, com
  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
 </div>
 
-## Projetos
+## Meus Projetos Atuais
 * [Página de Login Simplificada](https://github.com/WV-Wesley-Victor/Pagina-de-Login-Simplificada): Repositório do GitHub com uma página de login simplificada, segura e responsiva. Código-fonte disponível para estudo, personalização e implementação em seus próprios projetos.
 * [CSS Grid](https://github.com/WV-Wesley-Victor/CSS-Grid): Repositório do GitHub com um guia completo sobre o CSS Grid. Aprenda a criar layouts avançados e flexíveis para suas páginas web com exemplos práticos e explicações detalhadas.
 * [Projeto Escolha seu Plano](https://github.com/WV-Wesley-Victor/Projeto-Escolha-seu-Plano): Repositório do GitHub com um projeto prático de uma página de escolha de planos de serviços. Aprenda a estruturar o conteúdo usando HTML e estilizar o layout com CSS para criar uma página atraente e intuitiva.
 
-## Conecte-se comigo.
+## Entre em contato comigo
 <div> 
   <a href="https://github.com/WV-Wesley-Victor" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/wesley_vt1/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
