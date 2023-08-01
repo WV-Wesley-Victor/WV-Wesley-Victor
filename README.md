@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/AHl2eyn.png">
+![Wesley Victor](https://github.com/WV-Wesley-Victor/WV-Wesley-Victor/assets/137107062/3ac0423a-d9c7-48d4-942d-474684b8aa39)
 Olá, sou o Wesley Victor, um desenvolvedor web em busca constante de conhecimento e atualização. Estou sempre me atualizando sobre as últimas tendências e avanços tecnológicos do setor, com o objetivo de aprimorar minhas habilidades e oferecer soluções inovadoras aos meus clientes.
 
 ## Minhas habilidades e conhecimentos.
