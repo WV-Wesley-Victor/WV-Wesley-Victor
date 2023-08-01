@@ -23,7 +23,9 @@ Possuo uma ampla gama de habilidades que abrangem várias áreas essenciais, com
 </div>
 
 ## Projetos
-[Visite meu site](https://www.exemplo.com)
+* [Página de Login Simplificada](https://github.com/WV-Wesley-Victor/Pagina-de-Login-Simplificada): Repositório do GitHub com uma página de login simplificada, segura e responsiva. Código-fonte disponível para estudo, personalização e implementação em seus próprios projetos.
+* [CSS Grid](https://github.com/WV-Wesley-Victor/CSS-Grid): Repositório do GitHub com um guia completo sobre o CSS Grid. Aprenda a criar layouts avançados e flexíveis para suas páginas web com exemplos práticos e explicações detalhadas.
+* [Projeto Escolha seu Plano](https://github.com/WV-Wesley-Victor/Projeto-Escolha-seu-Plano): Repositório do GitHub com um projeto prático de uma página de escolha de planos de serviços. Aprenda a estruturar o conteúdo usando HTML e estilizar o layout com CSS para criar uma página atraente e intuitiva.
 
 ## Conecte-se comigo.
 <div> 
