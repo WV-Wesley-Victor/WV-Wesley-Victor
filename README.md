@@ -1,4 +1,4 @@
-![Wesley Victor](https://github.com/WV-Wesley-Victor/WV-Wesley-Victor/assets/137107062/d7e26574-5fa5-4ab9-bf5e-b6a6faac28ca)
+![Cópia de Wesley Victor](https://github.com/WV-Wesley-Victor/WV-Wesley-Victor/assets/137107062/dc8688fe-8781-4317-bcff-6172edf01dd9)
 ## Desenvolvedor Junior em Busca Eterna de Conhecimento
 Sou o Wesley Victor, um desenvolvedor junior apaixonado por atualizações tecnológicas. Busco constantemente conhecimento para oferecer soluções inovadoras aos meus clientes. Com uma abordagem visionária, almejo criar experiências digitais envolventes e funcionais, ultrapassando limites e impulsionando o sucesso dos projetos. Junte-se a mim nessa jornada de evolução e transformação digital!
 
