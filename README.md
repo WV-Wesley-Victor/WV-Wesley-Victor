@@ -1,9 +1,9 @@
 ![Cópia de Wesley Victor (3)](https://github.com/WV-Wesley-Victor/WV-Wesley-Victor/assets/137107062/e5252695-6d03-4adc-b025-b920b966d114)
-## Desenvolvedor Junior em Busca Eterna de Conhecimento
-Sou o Wesley Victor, um desenvolvedor junior apaixonado por atualizações tecnológicas. Busco constantemente conhecimento para oferecer soluções inovadoras aos meus clientes. Com uma abordagem visionária, almejo criar experiências digitais envolventes e funcionais, ultrapassando limites e impulsionando o sucesso dos projetos. Junte-se a mim nessa jornada de evolução e transformação digital!
+## Junior Developer in Eternal Quest for Knowledge
+I'm Wesley Victor, a junior developer passionate about technological advancements. I continuously seek knowledge to provide innovative solutions to my clients. With a visionary approach, I aim to create engaging and functional digital experiences, surpassing boundaries and driving project success. Join me on this journey of evolution and digital transformation!
 
-## Minhas habilidades e conhecimentos
-Possuo uma ampla gama de habilidades que abrangem várias áreas essenciais, como desenvolvimento web, programação, bancos de dados, sistemas operacionais, redes e segurança da informação. Essas competências me permitem ter uma visão abrangente e integrada no desenvolvimento de soluções tecnológicas, garantindo a eficiência, a qualidade e a segurança dos projetos em que trabalho.
+## My skills and knowledge
+I possess a wide range of skills that span various essential areas such as web development, programming, databases, operating systems, networks, and information security. These competencies allow me to have a comprehensive and integrated perspective in developing technological solutions, ensuring efficiency, quality, and security in the projects I work on.
 <div>
  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -22,7 +22,7 @@ Possuo uma ampla gama de habilidades que abrangem várias áreas essenciais, com
  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
 </div>
 
-## Entre em contato comigo
+## Get in touch with me.
 <div> 
   <a href="https://github.com/WV-Wesley-Victor" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/wesley_vt1/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
