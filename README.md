@@ -1,4 +1,4 @@
-![Cópia de Wesley Victor (3)](https://github.com/WV-Wesley-Victor/WV-Wesley-Victor/assets/137107062/e5252695-6d03-4adc-b025-b920b966d114)
+![Wesley Victor](https://github.com/WV-Wesley-Victor/WV-Wesley-Victor/assets/137107062/ab40f0fb-2349-4bbd-9086-217a911cb6f0)
 ## Junior Developer in Eternal Quest for Knowledge
 I'm Wesley Victor, a junior developer passionate about technological advancements. I continuously seek knowledge to provide innovative solutions to my clients. With a visionary approach, I aim to create engaging and functional digital experiences, surpassing boundaries and driving project success. Join me on this journey of evolution and digital transformation!
 
