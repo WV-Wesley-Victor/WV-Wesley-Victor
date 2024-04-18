@@ -1,4 +1,4 @@
-![Wesley Victor](https://github.com/WV-Wesley-Victor/WV-Wesley-Victor/assets/137107062/ab40f0fb-2349-4bbd-9086-217a911cb6f0)
+![Wesley Victor](https://github.com/WV-Wesley-Victor/WV-Wesley-Victor/assets/137107062/d4db66a7-e56a-45df-bfb3-77a17d050d04)
 ## Computer Technician in Eternal Quest for Knowledge
 I'm a IT student, graduated as a Computer Technician from Senac, and currently pursuing a degree in Systems Analysis and Development at Cruzeiro do Sul University. I firmly believe that technology has the potential to change the world for the better, and I'm excited to be part of it.
 
