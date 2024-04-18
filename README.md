@@ -1,6 +1,6 @@
 ![Wesley Victor](https://github.com/WV-Wesley-Victor/WV-Wesley-Victor/assets/137107062/ab40f0fb-2349-4bbd-9086-217a911cb6f0)
-## Junior Developer in Eternal Quest for Knowledge
-I'm Wesley Victor, a junior developer passionate about technological advancements. I continuously seek knowledge to provide innovative solutions to my clients. With a visionary approach, I aim to create engaging and functional digital experiences, surpassing boundaries and driving project success. Join me on this journey of evolution and digital transformation!
+## Computer Technician in Eternal Quest for Knowledge
+I'm a IT student, graduated as a Computer Technician from Senac, and currently pursuing a degree in Systems Analysis and Development at Cruzeiro do Sul University. I firmly believe that technology has the potential to change the world for the better, and I'm excited to be part of it.
 
 ## My skills and knowledge
 I possess a wide range of skills that span various essential areas such as web development, programming, databases, operating systems, networks, and information security. These competencies allow me to have a comprehensive and integrated perspective in developing technological solutions, ensuring efficiency, quality, and security in the projects I work on.
