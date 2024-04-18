@@ -6,7 +6,7 @@ I'm an IT enthusiast, deeply committed to expanding my knowledge and expertise i
 I possess a wide range of skills that span various essential areas such as web development, programming, databases, operating systems, networks, and information security. These competencies allow me to have a comprehensive and integrated perspective in developing technological solutions, ensuring efficiency, quality, and security in the projects I work on.
 <div>
  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
- https://camo.githubusercontent.com/bcec305c70d260f8426fa1d3d541a7b068cc8ee086cf26249f6f036f2034912f/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d2e4e455426636f6c6f723d353132424434266c6f676f3d2e4e4554266c6f676f436f6c6f723d464646464646266c6162656c3d
+ <img src="https://camo.githubusercontent.com/bcec305c70d260f8426fa1d3d541a7b068cc8ee086cf26249f6f036f2034912f/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d2e4e455426636f6c6f723d353132424434266c6f676f3d2e4e4554266c6f676f436f6c6f723d464646464646266c6162656c3d" />
  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
