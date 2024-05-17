@@ -5,6 +5,12 @@ I'm an IT enthusiast, deeply committed to expanding my knowledge and expertise i
 ## My skills and knowledge
 I possess a wide range of skills that span various essential areas such as web development, programming, databases, operating systems, networks, and information security. These competencies allow me to have a comprehensive and integrated perspective in developing technological solutions, ensuring efficiency, quality, and security in the projects I work on.
 <div>
+ <img src="https://img.shields.io/badge/frontend-ejs-red"/>
+ <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+ <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
+ <img src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+ <img src="https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square"/>
  <img src="https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white"/>
  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
