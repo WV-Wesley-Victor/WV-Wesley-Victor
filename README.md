@@ -3,7 +3,7 @@
 I'm an IT enthusiast, deeply committed to expanding my knowledge and expertise in the field. My journey began with my studies at Senac, where I graduated as a Computer Technician, equipped with a solid foundation in the fundamentals of computing. Building upon this foundation, I am currently immersed in my pursuit of a degree in Systems Analysis and Development at Cruzeiro do Sul University.
 
 ## My skills and knowledge
-I possess a wide range of skills that span various essential areas such as web development, programming, databases, operating systems, networks, and information security. These competencies allow me to have a comprehensive and integrated perspective in developing technological solutions, ensuring efficiency, quality, and security in the projects I work on.
+I possess a wide range of skills that span various essential areas such as web development, programming, databases, operating systems, networks, and information security. These competencies, along with proficiency in the Microsoft Office Suite, allow me to have a comprehensive and integrated perspective in developing technological solutions, ensuring efficiency, quality, and security in the projects I work on.
 <div>
  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
