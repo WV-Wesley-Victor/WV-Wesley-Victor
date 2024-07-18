@@ -1,6 +1,6 @@
 ![Wesley Victor](https://github.com/WV-Wesley-Victor/WV-Wesley-Victor/assets/137107062/d4db66a7-e56a-45df-bfb3-77a17d050d04)
 ## Computer Technician in Eternal Quest for Knowledge
-I'm an IT enthusiast, deeply committed to expanding my knowledge and expertise in the field. My journey began with my studies at Senac, where I graduated as a Computer Technician, equipped with a solid foundation in the fundamentals of computing. Building upon this foundation, I am currently immersed in my pursuit of a degree in Systems Analysis and Development at Cruzeiro do Sul University.
+I'm an enthusiastic IT professional with a strong commitment to advancing my knowledge and skills in the field. My journey began with my studies at Senac, where I earned a diploma as a Computer Technician, gaining a solid grounding in computing fundamentals. Building on this foundation, I am currently pursuing a degree in Systems Analysis and Development at Cruzeiro do Sul University, further deepening my expertise and preparing myself for more complex and challenging roles in the tech industry.
 
 ## My skills and knowledge
 I possess a wide range of skills that span various essential areas such as web development, programming, databases, operating systems, networks, and information security. These competencies, along with proficiency in the Microsoft Office Suite, allow me to have a comprehensive and integrated perspective in developing technological solutions, ensuring efficiency, quality, and security in the projects I work on.
