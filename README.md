@@ -60,5 +60,5 @@ I possess a wide range of skills that span various essential areas such as web d
   <a href = "mailto:vitorwesley1013b@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  <a href = "https://www.linkedin.com/in/wv-wesley-victor/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  <a href = "https://www.youtube.com/@LionDevs"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
- <a href = "https://www.tiktok.com/@vik_art_yt"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" target="_blank"></a>
+ <a href = "https://www.tiktok.com/@lion_devs"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" target="_blank"></a>
 </div>
